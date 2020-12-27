@@ -4,11 +4,11 @@
 
 Resultados de un  modelo electoral probabilístico para las elecciones autonómicas del 14 de febrero de 2021 en Catalunya.
 
-Los resultados se pueden encontrar en el siguiente directorio: <a href="/catalunya-2021-model/data"><span><code>/catalunya-2021-model/data</code></span></a>
+Los resultados se pueden encontrar en el siguiente directorio: <a href="/data"><span><code>/catalunya-2021-model/data</code></span></a>
 
-Creado por [Endika Nuñez](www.twitter.com/endikasatu)
+Creado por [Endika Nuñez](https://www.twitter.com/endikasatu)
 
-Publicado en [TheElectoralReport](www.electoralreport.com)
+Publicado en [TheElectoralReport](https://www.electoralreport.com)
 
 ## Archivos disponibles
 
