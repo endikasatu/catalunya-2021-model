@@ -1,41 +1,41 @@
 "","id_party","provincia","SEGUROS","PROBABLES","EN JUEGO"
-"1","TOTAL ESCAÑOS","Barcelona",85,NA,NA
-"2","PSC","Barcelona",13,5,4
-"3","ERC","Barcelona",12,4,3
-"4","Junts","Barcelona",9,4,4
-"5","Cs","Barcelona",5,4,3
-"6","Comuns","Barcelona",2,4,3
-"7","PP","Barcelona",0,4,3
-"8","CUP","Barcelona",0,3,3
-"9","Vox","Barcelona",0,3,3
-"10","PDeCAT","Barcelona",0,0,2
-"11","Junts","Girona",5,1,1
-"12","ERC","Girona",3,1,1
-"13","PSC","Girona",1,1,1
-"14","Cs","Girona",0,1,1
-"15","CUP","Girona",0,1,0
-"16","Comuns","Girona",0,0,1
-"17","PDeCAT","Girona",0,0,0
-"18","PP","Girona",0,0,1
+"1","BARCELONA, 85 ESC.","Barcelona",NA,NA,NA
+"2","Comuns","Barcelona",2,4,3
+"3","Cs","Barcelona",5,4,3
+"4","CUP","Barcelona",0,3,3
+"5","ERC","Barcelona",12,4,3
+"6","Junts","Barcelona",9,4,4
+"7","PDeCAT","Barcelona",0,0,2
+"8","PP","Barcelona",0,4,3
+"9","PSC","Barcelona",13,5,4
+"10","Vox","Barcelona",0,3,3
+"11","Comuns","Girona",0,0,1
+"12","Cs","Girona",0,1,1
+"13","CUP","Girona",0,1,0
+"14","ERC","Girona",3,1,1
+"15","Junts","Girona",5,1,1
+"16","PDeCAT","Girona",0,0,0
+"17","PP","Girona",0,0,1
+"18","PSC","Girona",1,1,1
 "19","Vox","Girona",0,0,1
-"20","TOTAL ESCAÑOS","GIRONA",17,NA,NA
-"21","Junts","Lleida",4,1,1
-"22","ERC","Lleida",3,1,1
-"23","PSC","Lleida",1,1,1
-"24","Cs","Lleida",0,1,0
-"25","Comuns","Lleida",0,0,1
-"26","CUP","Lleida",0,0,1
-"27","PDeCAT","Lleida",0,0,0
-"28","PP","Lleida",0,0,1
+"20","GIRONA, 17 ESC.","GIRONA, 17 ESC.",NA,NA,NA
+"21","Comuns","Lleida",0,0,1
+"22","Cs","Lleida",0,1,0
+"23","CUP","Lleida",0,0,1
+"24","ERC","Lleida",3,1,1
+"25","Junts","Lleida",4,1,1
+"26","PDeCAT","Lleida",0,0,0
+"27","PP","Lleida",0,0,1
+"28","PSC","Lleida",1,1,1
 "29","Vox","Lleida",0,0,1
-"30","TOTAL ESCAÑOS","LLEIDA",15,NA,NA
-"31","ERC","Tarragona",3,1,1
-"32","Junts","Tarragona",2,1,1
-"33","PSC","Tarragona",2,1,1
-"34","Cs","Tarragona",1,1,1
-"35","Comuns","Tarragona",0,1,0
-"36","PP","Tarragona",0,1,0
-"37","Vox","Tarragona",0,1,0
-"38","CUP","Tarragona",0,0,1
-"39","PDeCAT","Tarragona",0,0,0
-"40","TOTAL ESCAÑOS","TARRAGONA",18,NA,NA
+"30","LLEIDA, 15 ESC.","LLEIDA, 15 ESC.",NA,NA,NA
+"31","Comuns","Tarragona",0,1,0
+"32","Cs","Tarragona",1,1,1
+"33","CUP","Tarragona",0,0,1
+"34","ERC","Tarragona",3,1,1
+"35","Junts","Tarragona",2,1,1
+"36","PDeCAT","Tarragona",0,0,0
+"37","PP","Tarragona",0,1,0
+"38","PSC","Tarragona",2,1,1
+"39","Vox","Tarragona",0,1,0
+"40","TARRAGONA, 18 ESC.","TARRAGONA, 18 ESC.",NA,NA,NA
