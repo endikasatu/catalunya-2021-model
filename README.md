@@ -1,6 +1,6 @@
 # 📈🗳️Elecciones Catalunya 2021
 
-[![GitHub commit](https://img.shields.io/github/license/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/blob/main/LICENSE) [![GitHub commit](https://img.shields.io/github/last-commit/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/commits/main) 
+[![GitHub commit](https://img.shields.io/github/license/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/blob/main/LICENSE) [![GitHub commit](https://img.shields.io/github/last-commit/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/commits/main)
 
 Resultados de un  modelo electoral probabilístico para las elecciones autonómicas del 14 de febrero de 2021 en Catalunya. 
 
@@ -14,7 +14,7 @@ Metodología: [Metodología de la predicción para las elecciones en Catalunya p
 
 ## Artículos en prensa
 
-Artículos y análisis escritos en prensa basándome en los datos arrojados por esta predicción.
+Artículos y análisis publicados en prensa con los datos ofrecidos por el modelo.
 
 | Medio                                                        | Fecha      | Titular                                                      | URL                                                          |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
