@@ -31,8 +31,8 @@ En los siguientes archivos encontrarás los resultados actualizados del modelo y
 - `probabilidades-mayorias-bloques.csv` - Resumen de la predicción para los bloques: votos, escaños y probabilidades de mayoría.
 - `estvotoescanos-provincias.csv` -  Predicción de escaños con su horquilla para cada provincia.
 - `probabilidades-escanos-enjuego.csv` - Probabilidad de obtener los escaños: escaños seguros (>99%), probables (75-99%) y en juego (25-75%).
-- `probabilidades-posicion-votos.csv` - 
--  `probabilidades-posicion-escanos.csv` - 
+- `probabilidades-posicion-votos.csv` - Probabilidad de quedar en cierta posición en votos a nivel autonómico.
+-  `probabilidades-posicion-escanos.csv` - Probabilidad de quedar en cierta posición en escaños a nivel autonómico.
 
 ## Utilización de los datos
 
