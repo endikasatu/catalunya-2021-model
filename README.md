@@ -2,21 +2,37 @@
 
 [![GitHub commit](https://img.shields.io/github/license/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/blob/main/LICENSE) [![GitHub commit](https://img.shields.io/github/last-commit/endikasatu/catalunya-2021-model)](https://github.com/endikasatu/catalunya-2021-model/commits/main) 
 
-Resultados de un  modelo electoral probabilístico para las elecciones autonómicas del 14 de febrero de 2021 en Catalunya.
+Resultados de un  modelo electoral probabilístico para las elecciones autonómicas del 14 de febrero de 2021 en Catalunya. 
 
 Los resultados se pueden encontrar en el siguiente directorio: <a href="/data"><span><code>/catalunya-2021-model/data</code></span></a>
 
 Creado por [Endika Nuñez](https://www.twitter.com/endikasatu)
 
-Publicado en [TheElectoralReport](https://www.electoralreport.com)
+Publicado en [TheElectoralReport](https://www.electoralreport.com) y [elDiario.es]()
+
+Metodología: [Metodología de la predicción para las elecciones en Catalunya paso a paso]()
+
+## Artículos en prensa
+
+Artículos y análisis escritos en prensa basándome en los datos arrojados por esta predicción.
+
+| Medio                                                        | Fecha      | Titular                                                      | URL                                                          |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 21-01-2021 | El CIS catapulta a Illa gracias a un batacazo independentista sin precedentes | [🔗](https://www.eldiario.es/catalunya/cis-catapulta-illa-gracias-batacazo-independentista-precedentes_1_6999727.html) |
+| <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 12-01-2021 | El 'efecto Illa' impulsa al PSC pero aún no desbanca a ERC   | [🔗](https://www.eldiario.es/catalunya/efecto-illa-impulsa-psc-no-desbanca-erc_1_6746770.html) |
 
 ## Archivos disponibles
 
 En los siguientes archivos encontrarás los resultados actualizados del modelo y toda la información relevante al respecto. Los archivos se irán subiendo acorde a los próximos lanzamientos.
 
-- `pde-resumen-catalunya-2021.csv` - Resumen de los resultados actualizados del promedio de encuestas
 - `pde-plus-polls-catalunya-2021.csv` - Evolución del promedio de encuestas día-a-día con algunos sondeos publicados. Estos sondeos sirven para dibujar el gráfico, por lo que si hay varios el mismo día sólo se registrará uno de ellos. Se pueden consultar todas las encuestas en el siguiente archivo.
 - `polls-catalunya-2021.csv` - Intención de voto de todas las encuestas y proyecciones publicadas. Los datos provienen de [Wikipedia](https://en.wikipedia.org/wiki/2021_Catalan_regional_election#Opinion_polls).
+- `resumen-prediccion.csv` - Resumen de la predicción para los partidos: votos y escaños.
+- `probabilidades-mayorias-bloques.csv` - Resumen de la predicción para los bloques: votos, escaños y probabilidades de mayoría.
+- `estvotoescanos-provincias.csv` -  Predicción de escaños con su horquilla para cada provincia.
+- `probabilidades-escanos-enjuego.csv` - Probabilidad de obtener los escaños: escaños seguros (>99%), probables (75-99%) y en juego (25-75%).
+- `probabilidades-posicion-votos.csv` - 
+-  `probabilidades-posicion-escanos.csv` - 
 
 ## Utilización de los datos
 
@@ -36,7 +52,7 @@ Además, puedes consultar las condiciones de la licencia del proyecto [en este e
 - `Junts`: Junts, per Catalunya
 - `PDeCAT`: Partit Demòcrata Europeu Català
 - `CUP`: Candidatura d'Unitat Popular
-- `UP_Conf`: Catalunya En Comú
+- `Comuns`: Catalunya En Comú
 - `PSC`: Partido de los Socialistas de Catalunya
 - `PP`: Partido Popular de Cataluña
 - `Cs`: Ciutadans
@@ -44,31 +60,11 @@ Además, puedes consultar las condiciones de la licencia del proyecto [en este e
 
 ### Bloques
 
-- `Indepe`: Bloque formado por ERC, Junts y CUP.
-- `Indepe_plus`: Bloque formado por ERC, Junts, CUP y PDeCAT.
-- `No_Indepe`: Bloque formado por PSC, PP, Cs y Vox.
-- `No_Indepe_plus`: Bloque formado por PSC, PP, Cs, Vox y UP_Conf.
-- `Izq`: Bloque formado por ERC, PSC y UP_Conf.
-- `Izq_plus`: Bloque formado por ERC, PSC, UP_Conf y CUP.
-- `Dch`:  Bloque formado por PP, Cs, Vox.
-- `Dch_plus`: Bloque formado por PP, Cs, Vox, Junts y PDeCAT.
-
-### Otros
-
-- `fecha`: Fecha del cálculo del modelo.
-- `fecha_export`: Fecha y hora de ejecución del modelo.
-- `encuestadora_comisionado`: Empresa demoscópica que realiza el sondeo y el medio que lo publica. 
-- `trabajo_campo`: Fechas de realización del trabajo de campo.
-- `last_day`: Último día de trabajo de campo.
-- `e_day`: Día electoral.
-- `dias_rest`: Días restantes desde el último día de trabajo de campo hasta el día de elecciones.
-- `muestra`: El tamaño de muestra utilizado.
-- `participacion`: Porcentaje de participación estimada por la encuestadora.
-- `v1x2`: Ventaja en puntos porcentual de las dos primeras candidaturas más votadas.
-- `fuente`: Fuente original de la encuesta o la noticia del medio que lo publica.
-
-- `titular`: Titular de la noticia del medio que publica la encuesta.
-- `urlDW`: encuestadora_comisionado con la URL de la fuente para las tablas en Datawrapper.
+- `Independentistas`: Bloque formado por ERC, Junts, CUP y PDeCAT.
+- `No-Indpendentistas`: Bloque formado por PSC, Cs, PP y Vox.
+- `Izquierdas`: Bloque formado por ERC, PSC, Comuns y CUP.
+- `Tripartito`: Bloque formado por ERC, PSC y Comuns.
+- `Govern actual`: Bloque formado por ERC y Junts
 
 ## Qué es TheElectoralReport
 
