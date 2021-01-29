@@ -10,7 +10,7 @@ Creado por [Endika Nuñez](https://www.twitter.com/endikasatu)
 
 Publicado en [TheElectoralReport](https://www.electoralreport.com) y [elDiario.es]()
 
-Metodología: [Metodología de la predicción para las elecciones en Catalunya paso a paso]()
+Metodología: [Metodología de la predicción para las elecciones en Catalunya paso a paso](https://www.electoralreport.com/metodologia-prediccion-catalunya-2021/)
 
 ## Artículos en prensa
 
