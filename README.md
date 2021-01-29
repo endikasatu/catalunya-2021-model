@@ -18,8 +18,10 @@ Artículos y análisis publicados en prensa con los datos ofrecidos por el model
 
 | Medio                                                        | Fecha      | Titular                                                      | URL                                                          |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 29-01-2021 | Illa y Aragonès parten de un empate técnico en la carrera hacia el 14F seguidos de cerca por Borràs    | [🔗](https://www.eldiario.es/catalunya/illa-aragones-parten-empate-tecnico-carrera-14f-seguidos-cerca-borras_1_7175275.html) |
 | <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 21-01-2021 | El CIS catapulta a Illa gracias a un batacazo independentista sin precedentes | [🔗](https://www.eldiario.es/catalunya/cis-catapulta-illa-gracias-batacazo-independentista-precedentes_1_6999727.html) |
-| <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 12-01-2021 | El 'efecto Illa' impulsa al PSC pero aún no desbanca a ERC   | [🔗](https://www.eldiario.es/catalunya/efecto-illa-impulsa-psc-no-desbanca-erc_1_6746770.html) |
+| <b style="padding: 1px 4px; color:#ffffff; background: #004a7f; border-radius:3px; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; border: 1px solid #004a7f;">elDiario</b> | 12-01-2021 | El 'efecto Illa' impulsa al PSC pero aún no desbanca a ERC   | [🔗](https://www.eldiario.es/catalunya/efecto-illa-impulsa-psc-no-desbanca-erc_1_6746770.html) | 
+
 
 ## Archivos disponibles
 
