@@ -8,7 +8,7 @@ Los resultados se pueden encontrar en el siguiente directorio: <a href="/data"><
 
 Creado por [Endika Nuñez](https://www.twitter.com/endikasatu)
 
-Publicado en [TheElectoralReport](https://www.electoralreport.com) y [elDiario.es]()
+Publicado en [TheElectoralReport](https://www.electoralreport.com) y [elDiario.es](https://www.eldiario.es/catalunya/encuestas-elecciones-catalunya-14f-bloque-independentista-debilita-aguanta-mayoria-absoluta_1_7165203.html)
 
 Metodología: [Metodología de la predicción para las elecciones en Catalunya paso a paso](https://www.electoralreport.com/metodologia-prediccion-catalunya-2021/)
 
